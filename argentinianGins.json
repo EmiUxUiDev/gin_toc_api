@@ -8,7 +8,7 @@
         "recipe": "Distilled with only the finest French blackcurrants, vanilla, and the four classic London Dry botanicals - piney juniper, peppery coriander, aromatic angelica, and sweet liquorice. Delicious flavour that evokes the boldness of Charles himself, as well as the mystery and decadence of France.",
         "price": 3200,
         "stock": 10,
-        "path": "..img/500NochesPink.png"
+        "path": "../img/500NochesPink.png"
     },
     {   "id": 2,
         "brand": "Aconcagua Dry",
@@ -19,7 +19,7 @@
         "recipe": "A handcrafted gin, elaborated in Buenos Aires. Its recipe is compoused mainly by 7 botanicals: Juniper berries, Coriander, Angelica root, lemon peel, Cassia, almond and regaliz, that in a delicated maceration process and destilation in copper alembic, we get our gin",
         "price": 2250,
         "stock": 15,
-        "path": "..img/AconcaguaBlue.png"
+        "path": "../img/AconcaguaBlue.png"
     },
     {   "id": 3,
         "brand": "Aconcagua Green Special edition",
