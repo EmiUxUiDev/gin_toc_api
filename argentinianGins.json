@@ -75,5 +75,27 @@
         "price": 2800,
         "stock": 12,
         "path": "../img/ArgentinaWild.png"
+    },
+    {   "id": 8,
+        "brand": "Bols Dry",
+        "wand": "London",
+        "contains": "1000ml",
+        "origin": "Argentina",
+        "summary": "From Nederlans and sorrounded region to Buenos Aires, a clasic dry gin since 1889",
+        "recipe": "Distilled in a copper still its as artisanal as it gets. Each botanical is individually macerated, the main one is mate leaves which is commonly used to preapare mate an argentinian tradition. Each maceration is then filtered and blended according to tato's original recipe and the batch is then distilled.The result of the distillation is bottled and numbered.",
+        "price": 1800,
+        "stock": 25,
+        "path": "../img/BolsDry.png"
+    },
+    {   "id": 9,
+        "brand": "Bols golden",
+        "wand": "Spiced",
+        "contains": "500ml",
+        "origin": "Argentina",
+        "summary": "From Nederlans and sorrounded region to Buenos Aires, spiced gin giving a touch to the clasic argentinian ginebra ",
+        "recipe": "Distilled in a copper still. Each botanical is individually macerated, the main one is mate leaves which is commonly used to preapare mate an argentinian tradition. Each maceration is then filtered and blended according to tato's original recipe and the batch is then distilled.The result of the distillation is bottled and numbered.",
+        "price": 2000,
+        "stock": 8,
+        "path": "../img/BolsDryGolden.png"
     }
 ]   
