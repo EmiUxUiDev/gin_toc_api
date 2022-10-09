@@ -64,5 +64,16 @@
         "price": 2200,
         "stock": 10,
         "path": "../img/ApostolesDryLongNeck.png"
+    },
+    {   "id": 7,
+        "brand": "Argentina Wild",
+        "wand": "London",
+        "contains": "500ml",
+        "origin": "Mendoza, Argentina",
+        "summary": "Made with pure thaw water and selected botanical herbs, spiced flavors",
+        "recipe": "Distilled in a copper still its as artisanal as it gets. Each botanical is individually macerated, the main one is mate leaves which is commonly used to preapare mate an argentinian tradition. Each maceration is then filtered and blended according to tato's original recipe and the batch is then distilled.The result of the distillation is bottled and numbered.",
+        "price": 2800,
+        "stock": 12,
+        "path": "../img/ArgentinaWild.png"
     }
 ]   
